@@ -1,0 +1,28 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# IDE related
+.idea/
+.vscode/
+
+# Build output
+build/
+
+# Android related
+android/app/build/
+
+# iOS related
+ios/Flutter/.generated/
+
+# Windows related (se aplicável)
+windows/runner/
+
+# macOS related (se aplicável)
+macos/Flutter/.generated/
+
+# Linux related (se aplicável)
+linux/flutter/.generated/
